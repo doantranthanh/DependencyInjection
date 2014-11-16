@@ -1,0 +1,5 @@
+C:\xln-vault\XLN - Common Components\XlnDependencyContainer\bin\Debug\XlnDependencyContainer.dll
+C:\xln-vault\XLN - Common Components\XlnDependencyContainer\bin\Debug\XlnDependencyContainer.pdb
+C:\xln-vault\XLN - Common Components\XlnDependencyContainer\obj\Debug\XlnDependencyContainer.csprojResolveAssemblyReference.cache
+C:\xln-vault\XLN - Common Components\XlnDependencyContainer\obj\Debug\XlnDependencyContainer.dll
+C:\xln-vault\XLN - Common Components\XlnDependencyContainer\obj\Debug\XlnDependencyContainer.pdb
